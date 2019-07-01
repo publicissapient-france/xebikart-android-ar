@@ -1,0 +1,18 @@
+newmtl Balloon_Arch_2
+Ka 0.980400 0.003900 0.003900
+Kd 0.980400 0.003900 0.003900
+Ks 0.540000 0.540000 0.540000
+Ns 49.999996
+d 0.780000
+Tr 0.220000
+map_Kd Balloon_Arch_2 - Texture par défaut0000.psd 
+
+newmtl Balloon_Arch_1
+Ka 0.439216 0.439216 0.439216
+Kd 0.000000 0.000000 0.000000
+Ks 0.900000 0.900000 0.900000
+Ns 49.999996
+d 0.780000
+Tr 0.220000
+map_Kd Balloon_Arch_1 - Texture par défaut0000.psd 
+
